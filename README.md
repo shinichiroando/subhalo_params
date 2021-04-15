@@ -1,7 +1,7 @@
 # subhalo_params
 
 -----------------------
-subhalo_params_1e-6.txt
+subhalo_params_1e-6.npy
 -----------------------
 
 All the subhalos accreted onto the Milky Way (M_{200}=1e12 Msun at z=0) with pre-infall mass greater than M_{200} = 1e-6 Msun are listed.
