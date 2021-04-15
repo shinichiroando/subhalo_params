@@ -31,3 +31,6 @@ Explanation of columns:
 12: Sub-subhalo mass fraction at z=0 after tidal stripping, f_{sh,0}
 
 13: Weight of each row (number of subhalos assinged to it)
+
+
+
