@@ -1,6 +1,8 @@
 # subhalo_params
 
+-----------------------
 subhalo_params_1e-6.txt
+-----------------------
 
 All the subhalos accreted onto the Milky Way (M_{200}=1e12 Msun at z=0) with pre-infall mass greater than M_{200} = 1e-6 Msun are listed.
 
@@ -34,3 +36,11 @@ Explanation of columns:
 
 
 
+----------
+References
+----------
+
+If you use the data in this repository, please cite the following papers.
+
+- N. Hiroshima, S. Ando and T. Ishiyama, "Modeling evolution of dark matter substructure and annihilation boost," Phys. Rev. D 97 (2018) no.12, 123002. doi:10.1103/PhysRevD.97.123002 [arXiv:1803.07691 [astro-ph.CO]].
+- S. Ando, T. Ishiyama and N. Hiroshima, "Halo Substructure Boosts to the Signatures of Dark Matter Annihilation," Galaxies 7 (2019) no.3, 68. doi:10.3390/galaxies7030068 [arXiv:1903.11427 [astro-ph.CO]].
